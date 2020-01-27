@@ -15,6 +15,12 @@ const styles = StyleSheet.create({
         marginVertical: 7,
         backgroundColor: '#ccc',
         borderColor: 'black'
+    },
+    goalInput: {
+      width: "80%",
+      borderColor: "black",
+      borderWidth: 1,
+      padding: 10
     }
 });
 
